@@ -3,10 +3,9 @@
  * print_sign - prints the sign of a number
  * @n: the int to check
  *
-* Return: 0 if successful
  */
 
- int print_sign(int n)
+int print_sign(int n)
 {
 int i;
 if (n > 0)
