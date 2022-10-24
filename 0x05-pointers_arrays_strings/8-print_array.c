@@ -21,4 +21,4 @@ printf("%i", a[count]);
 count++;
 }
 printf("\n");
-}}
+}
